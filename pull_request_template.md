@@ -7,4 +7,4 @@
 6. Make sure that you are returning the entire `Error` object when returning an error response, instead of a `string`.
 7. Check that repo is migrated to the latest [CI/CD Platform](https://docs.google.com/document/d/1hzi4H7HXEfV1Pk9BP-k9fQTFRnVC9WNyuGQJjY4wyfE/edit?usp=sharing)
 
-**Please write a brief and detailed description of what this PR is trying to accomplish**
+:warning: **Please write a brief and detailed description of what this PR is trying to accomplish**
